@@ -2,7 +2,8 @@
 
 # Primeiro desafio da faculdade de Análise e Desenvolvimento de Sistemas na Estácio.
 
-Desafio Super Trunfo - Países - Cadastro das Cartas
+# Desafio Super Trunfo - Países - Cadastro das Cartas
+
 ## 🎮 Nível Novato
 
 No nível Novato, você iniciará criando o sistema básico do jogo Super Trunfo com o tema "Países". As cartas serão divididas por estados, cada um com quatro cidades. 
